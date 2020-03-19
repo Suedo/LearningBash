@@ -1,3 +1,4 @@
+#!/bin/bash
 NAME="Somjit"
 SPORT="Foot"
 echo "My name is $NAME"
