@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Enter path to check"
 read CHKPATH
 
